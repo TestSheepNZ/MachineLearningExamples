@@ -71,3 +71,18 @@ reg.fit (inputData, outputData)
 reg.coef_
 
 print ("Predicted time to travel 3m is ", reg.predict([[3.0, 1]]))
+
+
+""""
+print ("Predicted time to travel -3m is ", reg.predict([[-3.0, 1]]))
+
+print ("Predicted time to travel 300m is ", reg.predict([[300.0, 1]]))
+"""
+
+# Assert the value for 3m is 18.68s +/- 0.5s
+error = 0.5
+expectedValue = 18.68
+minValue = expectedValue-error
+maxValue = expectedValue+error
+assert (reg.predict([[3.0, 1]]) > minValue), "Expect 3s time to be greater than " + str(minValue)
+assert (reg.predict([[3.0, 1]]) < maxValue), "Expect 3s time to be less than " + str(maxValue)
