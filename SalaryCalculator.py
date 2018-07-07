@@ -98,90 +98,89 @@ outputArray.append(120)
 inputArray.append([9, 0])
 outputArray.append(114)
 
-inputArray.append([1, 0])
+inputArray.append([1, 1])
 outputArray.append(70)
 
-inputArray.append([2, 0])
+inputArray.append([2, 1])
 outputArray.append(77)
 
-inputArray.append([3, 0])
+inputArray.append([3, 1])
 outputArray.append(88)
 
-inputArray.append([4, 0])
+inputArray.append([4, 1])
 outputArray.append(94)
 
-inputArray.append([5, 0])
+inputArray.append([5, 1])
 outputArray.append(104)
 
-inputArray.append([5, 0])
+inputArray.append([5, 1])
 outputArray.append(100)
 
-inputArray.append([5, 0])
+inputArray.append([5, 1])
 outputArray.append(95)
 
-inputArray.append([2, 0])
+inputArray.append([2, 1])
 outputArray.append(82)
 
-inputArray.append([3, 0])
+inputArray.append([3, 1])
 outputArray.append(83)
 
-inputArray.append([4, 0])
+inputArray.append([4, 1])
 outputArray.append(96)
 
-inputArray.append([4, 0])
+inputArray.append([4, 1])
 outputArray.append(93)
 
-inputArray.append([3, 0])
+inputArray.append([3, 1])
 outputArray.append(91)
 
-inputArray.append([6, 0])
+inputArray.append([6, 1])
 outputArray.append(102)
 
-inputArray.append([6, 0])
+inputArray.append([6, 1])
 outputArray.append(105)
 
-inputArray.append([6, 0])
+inputArray.append([6, 1])
 outputArray.append(103)
 
-inputArray.append([7, 0])
+inputArray.append([7, 1])
 outputArray.append(109)
 
-inputArray.append([7, 0])
+inputArray.append([7, 1])
 outputArray.append(111)
 
-inputArray.append([7, 0])
+inputArray.append([7, 1])
 outputArray.append(103)
 
-inputArray.append([8, 0])
+inputArray.append([8, 1])
 outputArray.append(112)
 
-inputArray.append([8, 0])
+inputArray.append([8, 1])
 outputArray.append(117)
 
-inputArray.append([8, 0])
+inputArray.append([8, 1])
 outputArray.append(120)
 
-inputArray.append([9, 0])
+inputArray.append([9, 1])
 outputArray.append(125)
 
-inputArray.append([10, 0])
+inputArray.append([10, 1])
 outputArray.append(135)
 
-inputArray.append([10, 0])
+inputArray.append([10, 1])
 outputArray.append(120)
 
-inputArray.append([9, 0])
+inputArray.append([9, 1])
 outputArray.append(130)
 
-inputArray.append([9, 0])
+inputArray.append([9, 1])
 outputArray.append(118)
 
-inputArray.append([9, 0])
+inputArray.append([9, 1])
 outputArray.append(110)
 
-inputArray.append([10, 0])
+inputArray.append([10, 1])
 outputArray.append(123)
-
 
 
 
