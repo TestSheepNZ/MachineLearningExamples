@@ -73,11 +73,11 @@ reg.coef_
 print ("Predicted time to travel 3m is ", reg.predict([[3.0, 1]]))
 
 
-""""
+
 print ("Predicted time to travel -3m is ", reg.predict([[-3.0, 1]]))
 
 print ("Predicted time to travel 300m is ", reg.predict([[300.0, 1]]))
-"""
+
 
 # Assert the value for 3m is 18.68s +/- 0.5s
 error = 0.5
